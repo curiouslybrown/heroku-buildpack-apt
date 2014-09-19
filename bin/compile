@@ -71,4 +71,4 @@ export CPATH="$INCLUDE_PATH"
 export CPPPATH="$INCLUDE_PATH"
 export EXTRA_CPPFLAGS="-I$HOME/.apt/usr/include" 
 export EXTRA_LDFLAGS="-L$HOME/.apt/usr/lib"
-npm install phash
+/app/vendor/node/bin/npm install phash
